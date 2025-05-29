@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Chahar</h1>
 <h3 align="center">Frontend Developer proficient in React, JavaScript, with experience in creating dynamic web applications. Adept at developing responsive interfaces, integrating RESTful APIs, and optimizing performance, all while prioritizing user experience and collaboration in team environments.</h3>
 
-- 🔭 I’m currently working on **SaatvikStduies**
-
-- 🌱 I’m currently learning **AWS, GCP**
-
-- 👨‍💻 All of my projects are available at [https://vivekchaharportfolio.netlify.app/](https://vivekchaharportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Vivek Chahar Portfolio](https://vivekchaharportfolio.netlify.app/)
 
 - 📫 How to reach me **vivekchahar1960@gmail.com**
 
